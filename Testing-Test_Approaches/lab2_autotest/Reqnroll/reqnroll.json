@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schemas.specflow.org/reqnroll/reqnroll-v1.json",
+  "stepAssemblies": [
+    { "assembly": "Reqnroll" }
+  ],
+  "bindingCulture": {
+    "name": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "runtime": {
+    "missingOrPendingStepsOutcome": "Error"
+  }
+}
+
